@@ -7,18 +7,18 @@
 
 .generator{
   
-  background-image: linear-gradient(-225deg, #20E2D7 0%, #F9FEA5 100%);
+  background-image: linear-gradient(-225deg, #6d5e9c 0%, #F9FEA5 100%);
   border-radius: 10px;
   box-shadow: 0px 2px 10px rgba(245, 244, 244, 0.863);
   padding: 30px;
 }
 .generator__header{
   text-align: center;
-  color: darkgreen;
+  color: darkblue;
   margin-bottom: 20px;
 }
 .generator__password{
-  background-color:#308D46;
+  background-color:#6c65ad;
   padding: 13px 10px;
   color: #fff;
   margin-bottom: 15px;
@@ -28,12 +28,12 @@
 }
 .copy__btn{
   color: #fff;
-  background: #308D46;
+  background: #6c65ad;
   border: none;
   cursor: pointer;
 }
 .generator__btn{
-  background: #308D46;
+  background: #6c65ad;
   border: none;
   width: 100%;
   margin-top: 10px;
